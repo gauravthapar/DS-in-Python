@@ -1,2 +1,2 @@
 # DS-in-Python
-Basic DS 
+Binary Search - https://www.geeksforgeeks.org/binary-search/
