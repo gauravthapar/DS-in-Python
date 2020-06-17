@@ -1,3 +1,6 @@
+# complexity of linear search
+# is O(n)
+
 def linearsearch(lst, key):
     for position in range(0,len(lst)) :
         if lst[position] == key :
